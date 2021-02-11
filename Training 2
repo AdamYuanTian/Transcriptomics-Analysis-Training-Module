@@ -1,6 +1,7 @@
 I hope you have successfully installed R and RStudio and added your first R package.
  
-For this time, we will try to use R for loading and processing some data and plotting the result. I have included the data and R script in folder 2.
+For this time, we will try to use R for loading and processing some data and plotting the result. 
+I have included the data and R script in folder Training 2. Download the files to your local drive for practice.
 
 Here is a list of things we can try:
 1.	Figure out how to load the R script and run the code line by line.
