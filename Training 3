@@ -1,0 +1,11 @@
+I hope you have figured out how to run the R code in previous training session and were able to load, process, and plot the data.
+
+For this time, we will learn how to perform Differential Expression Analysis to identify systematic gene expression changes between conditions.
+Some of the key words you can Google: 1) Differentially expressed genes (DEGs); 2) Differential gene expression analysis.
+
+I have included the data and R script in folder Training 3. Please download the files to your local drive for practice.
+
+Here is a list of things we can try:
+1. This training is a continuation from the previous one. You will find the script is partially the same but with added new functions. Try to understand the meaning for each line of code. You can eaither search online or use the Help window at the right bottom of RStudio.
+2. Save the results into a Excel file.
+3. Understand the meaning of the results, such as baseMean, log2FoldChange, etc.
