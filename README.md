@@ -10,6 +10,8 @@ Training 2: https://youtu.be/mLZ8w15UOac
 
 Training 3: https://youtu.be/-PpNL9X4-E8
 
-![Alt text](https://github.com/AdamYuanTian/Figure/blob/main/Readme_fig_R%20Tutorial/Slide1.png=737x385)
+![Alt_Text](https://github.com/AdamYuanTian/Figure/blob/main/Readme_fig_R%20Tutorial/Slide1.png)
 
-![Alt text](https://github.com/AdamYuanTian/Figure/blob/main/Readme_fig_R%20Tutorial/Slide2.PNG=1457x811)
+
+![Alt Text](https://github.com/AdamYuanTian/Figure/blob/main/Readme_fig_R%20Tutorial/Slide2.PNG)
+
