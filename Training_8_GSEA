@@ -1,0 +1,8 @@
+1. Perform GSEA analysis using DEGs resuls from Training 3
+
+2. Visualize GSEA results with Bubble Plot
+(1) Prepare a summary csv file by combining all your GSEA results (Training8_GSEA Hallmark Gene Summary.csv is provided here as an example)
+(2) In the exmaple file, Description (without HALLMARK_), NES, and qvalues (as FDR) are copied from orginal GSEA results
+(3) Type and Condition can be edited based on need. In this example, Type is labeled with different stages of cancer
+(4) Category is determined based on Hallmark gene category (https://www.cell.com/fulltext/S2405-4712(15)00218-5)
+(5) Positive_value is based on NES
