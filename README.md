@@ -4,6 +4,8 @@ Here is a step-by-step tutorial for using R in transcriptomics analysis
 
 Tutorial video is also available on YouTube
 
+Training 0: https://youtu.be/fki7Zinmphc
+
 Training 1: https://youtu.be/dyINjHjlp9w
 
 Training 2: https://youtu.be/mLZ8w15UOac
