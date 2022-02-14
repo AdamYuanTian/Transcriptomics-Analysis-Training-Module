@@ -1,3 +1,8 @@
-For this time, we will learn how to visualize the results from Differential Expression Analysis. For demonstration purpose, results from training 3 is used here.
+For this time, we will learn how to visualize the results from Differential Expression Analysis. 
 
+1. Volcano plot:
+For demonstration purpose, results from training 3 is used here.
 I have included the results (from training 3) and R script in folder Training 5. Please download the files to your local drive for practice.
+
+2. Euler Diagram:
+For demonstration purpose, two example DEGs results have been included.
