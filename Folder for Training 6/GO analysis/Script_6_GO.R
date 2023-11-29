@@ -46,7 +46,7 @@ GO_ORA <- function(res) {
   go_enrich_res <- enrichGO(gene = genes,
                         universe = names(gene_list),
                         OrgDb = org.Hs.eg.db, # For human analysis
-                        keyType = 'ENSEMBL',
+                        keyType = 'ENTREZID', #can be ENSEMBL, SYMBOL, or ENTREZID
                         readable = TRUE,
                         ont = "BP", #MF, BP, or CC
                         pvalueCutoff = 0.05,
